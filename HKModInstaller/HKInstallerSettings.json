@@ -1,0 +1,14 @@
+{
+  "ManagedFolder": "/home/Nic/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/Managed",
+  "AutoRemoveUnusedDeps": "Never",
+  "WarnBeforeRemovingDependents": true,
+  "UseCustomModlinks": false,
+  "CustomModlinksUri": "",
+  "UseGithubMirror": false,
+  "GithubMirrorFormat": "",
+  "PreferredLanguage": "en",
+  "LowStorageMode": false,
+  "ExtraSpaceTaken": "0 MB",
+  "RequiresWorkaroundClient": false,
+  "CacheFolder": "/home/Nic/.config/HKModInstaller/HKInstallerCache"
+}

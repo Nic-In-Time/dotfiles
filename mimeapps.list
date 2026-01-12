@@ -1,0 +1,15 @@
+[Default Applications]
+inode/symlink=thunar.desktop
+text/x-csrc=code.desktop
+application/x-zerosize=code.desktop
+text/plain=code.desktop
+application/zip=thunar.desktop
+x-scheme-handler/everest=/home/Nic/.local/share/applications/Olympus.desktop
+
+[Added Associations]
+inode/symlink=thunar.desktop;
+text/x-csrc=code.desktop;
+application/x-zerosize=code.desktop;
+text/plain=code.desktop;
+application/zip=kitty.desktop;kitty-open.desktop;thunar.desktop;
+inode/directory=code.desktop;

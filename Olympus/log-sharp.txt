@@ -1,0 +1,18 @@
+ERROR: ld.so: object '/home/Nic/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+[2026-01-09 20:13:58] [inf] [Program] Hey! This is Olympus.Sharp 25.12.05.01-azure-5355-2959f, and I managed to boot up. That's a good start.
+[2026-01-09 20:13:59] [dbg] [Program] root directory = /opt/olympus/linux.main
+[2026-01-09 20:13:59] [inf] [Program] New TCP connection: 127.0.0.1:34166
+[2026-01-09 20:13:59] [dbg] [Program] Executing setolympusversion
+[2026-01-09 20:13:59] [dbg] [Program] Executing getversionstring
+[2026-01-09 20:13:59] [dbg] [Program] Executing getrunningpath
+[2026-01-09 20:14:00] [dbg] [Program] Executing getmodidtocategorymap
+[2026-01-09 20:14:00] [dbg] [CmdGetModIdMap] Cache location set to: /home/Nic/.config/Olympus/cached-mod-ids-to-categories.json
+[2026-01-09 20:14:00] [dbg] [CmdGetModIdMap] Loading mod_ids_to_categories.json from the Internet (apiMirror = False)
+[2026-01-09 20:14:00] [dbg] [Program] Executing getmodidtonamemap
+[2026-01-09 20:14:00] [dbg] [CmdGetModIdMap] Cache location set to: /home/Nic/.config/Olympus/cached-mod-ids-to-names.json
+[2026-01-09 20:14:00] [dbg] [CmdGetModIdMap] Loading mod_ids_to_names.json from the Internet (apiMirror = False)
+[2026-01-09 20:14:07] [dbg] [Program] Executing launch
+[2026-01-09 20:14:07] [inf] [CmdLaunch] Starting Celeste process: /home/Nic/.local/share/Steam/steamapps/common/Celeste/Celeste (without args)
+ERROR: ld.so: object '/home/Nic/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+chmod: changing permissions of '/opt/olympus/linux.main/suppress-output': Operation not permitted
+ERROR: ld.so: object '/home/Nic/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.

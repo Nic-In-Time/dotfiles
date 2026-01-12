@@ -1,0 +1,4 @@
+[Bookmarks]
+[Recent]
+/home/Nic/Documents/Modulo-2026-Website/modulo-2026-website/src/assets/playingField/
+/home/Nic/Documents/blender/munchy/
