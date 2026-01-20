@@ -1,5 +1,5 @@
 heroic/
-discord/
+discord/*
 !discord/settings.json
 unity3d/
 go/
@@ -12,3 +12,4 @@ filezilla/
 Electron/
 menus/
 spotify/
+Blockbench/
