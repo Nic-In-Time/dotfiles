@@ -1,33 +1,33 @@
-[2026-01-09 20:13:58] [dbg] [conf] pre-initializing
-[2026-01-09 20:13:58] [dbg] [conf] cwd: /opt/olympus/linux.main
-[2026-01-09 20:13:58] [dbg] [conf] src: /opt/olympus/linux.main
-[2026-01-09 20:13:58] [dbg] [conf] storageDir: /home/Nic/.config/Olympus
-[2026-01-09 20:13:58] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:58] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:58] [dbg] [conf] pre-initialized
-[2026-01-09 20:13:58] [dbg] [main] This is Olympus.Lua version 25.12.05.01-azure-5355-2959f
-[2026-01-09 20:13:58] [dbg] [sharp.thread] [init] starting thread
-[2026-01-09 20:13:58] [dbg] [sharp.thread] [init] starting subprocess /opt/olympus/linux.main/sharp/Olympus.Sharp 1526898
-[2026-01-09 20:13:58] [dbg] [sharp.thread] [init] logging to /home/Nic/.config/Olympus/log-sharp.txt
-[2026-01-09 20:13:58] [dbg] [sharp.thread] [init] reading init
-[2026-01-09 20:13:59] [dbg] [sharp.thread] [init] read init table: 0x7fc661515960
-[2026-01-09 20:13:59] [dbg] [sharp.thread] [init] startime 1768007639.1071
-[2026-01-09 20:13:59] [dbg] [main] Olympus version was transmitted to sharp: ok
-[2026-01-09 20:13:59] [inf] [main] Connection with Olympus.Sharp is OK!
-[2026-01-09 20:13:59] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:59] [dbg] [main] love2d version 11.5.0.Mysterious Mysteries
-[2026-01-09 20:13:59] [dbg] [main] SDL2 version 2.32.60
-[2026-01-09 20:13:59] [dbg] [finder] steam root /home/Nic/.local/share/Steam <same>
-[2026-01-09 20:13:59] [dbg] [finder] steam common /home/Nic/.local/share/Steam/steamapps/common
-[2026-01-09 20:13:59] [dbg] [finder] steam common /home/Nic/.local/share/Steam/steamapps/common
-[2026-01-09 20:13:59] [dbg] [finder] steam additional library /home/Nic/.local/share/Steam/steamapps/common
-[2026-01-09 20:13:59] [dbg] [finder] steam install /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:59] [dbg] [finder] steam install /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:59] [dbg] [finder] steam root /home/Nic/.local/share/Steam <same>
-[2026-01-09 20:13:59] [dbg] [finder] itch db /home/Nic/.config/itch/db/butler.db false
-[2026-01-09 20:13:59] [dbg] [finder] lutris db /home/Nic/.local/share/lutris/pga.db false
-[2026-01-09 20:13:59] [dbg] [finder] lutris root /home/Nic/.config/lutris false
-[2026-01-09 20:13:59] [dbg] [finder] legendary root /home/Nic/.config/legendary false
-[2026-01-09 20:13:59] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:13:59] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
-[2026-01-09 20:14:00] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:54] [dbg] [conf] pre-initializing
+[2026-01-22 12:04:54] [dbg] [conf] cwd: /opt/olympus/linux.main
+[2026-01-22 12:04:54] [dbg] [conf] src: /opt/olympus/linux.main
+[2026-01-22 12:04:54] [dbg] [conf] storageDir: /home/Nic/.config/Olympus
+[2026-01-22 12:04:54] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:54] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:54] [dbg] [conf] pre-initialized
+[2026-01-22 12:04:54] [dbg] [main] This is Olympus.Lua version 25.12.05.01-azure-5355-2959f
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] starting thread
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] starting subprocess /opt/olympus/linux.main/sharp/Olympus.Sharp 219347
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] logging to /home/Nic/.config/Olympus/log-sharp.txt
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] reading init
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] read init table: 0x7f52396f4dd0
+[2026-01-22 12:04:54] [dbg] [sharp.thread] [init] startime 1769101494.8555
+[2026-01-22 12:04:55] [dbg] [main] Olympus version was transmitted to sharp: ok
+[2026-01-22 12:04:55] [inf] [main] Connection with Olympus.Sharp is OK!
+[2026-01-22 12:04:55] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:55] [dbg] [main] love2d version 11.5.0.Mysterious Mysteries
+[2026-01-22 12:04:55] [dbg] [main] SDL2 version 2.32.62
+[2026-01-22 12:04:55] [dbg] [finder] steam root /home/Nic/.local/share/Steam <same>
+[2026-01-22 12:04:55] [dbg] [finder] steam common /home/Nic/.local/share/Steam/steamapps/common
+[2026-01-22 12:04:55] [dbg] [finder] steam common /home/Nic/.local/share/Steam/steamapps/common
+[2026-01-22 12:04:55] [dbg] [finder] steam additional library /home/Nic/.local/share/Steam/steamapps/common
+[2026-01-22 12:04:55] [dbg] [finder] steam install /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:55] [dbg] [finder] steam install /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:55] [dbg] [finder] steam root /home/Nic/.local/share/Steam <same>
+[2026-01-22 12:04:55] [dbg] [finder] itch db /home/Nic/.config/itch/db/butler.db false
+[2026-01-22 12:04:55] [dbg] [finder] lutris db /home/Nic/.local/share/lutris/pga.db false
+[2026-01-22 12:04:55] [dbg] [finder] lutris root /home/Nic/.config/lutris false
+[2026-01-22 12:04:55] [dbg] [finder] legendary root /home/Nic/.config/legendary false
+[2026-01-22 12:04:55] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:55] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste
+[2026-01-22 12:04:55] [inf] [finder] found Celeste.dll root /home/Nic/.local/share/Steam/steamapps/common/Celeste

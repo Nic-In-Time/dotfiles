@@ -16,7 +16,7 @@
         "hyprland/workspaces",
         //"wlr/taskbar",
         //"group/quicklinks",
-        "custom/nowplaying",        
+        //"custom/nowplaying",        
         "custom/empty"
     ],
     // Modules Center
