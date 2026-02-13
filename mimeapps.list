@@ -6,12 +6,15 @@ text/plain=code.desktop
 application/zip=thunar.desktop
 x-scheme-handler/everest=/home/Nic/.local/share/applications/Olympus.desktop
 application/octet-stream=code.desktop
+video/quicktime=firefox.desktop
 
 [Added Associations]
 inode/symlink=thunar.desktop;
 text/x-csrc=code.desktop;
 application/x-zerosize=code.desktop;
 text/plain=code.desktop;
-application/zip=kitty.desktop;kitty-open.desktop;thunar.desktop;
+application/zip=kitty-open.desktop;kitty.desktop;thunar.desktop;
 inode/directory=code.desktop;
 application/octet-stream=code.desktop;
+text/x-java=code.desktop;
+video/quicktime=firefox.desktop;

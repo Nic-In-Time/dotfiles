@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontLigatures": true,
+}
