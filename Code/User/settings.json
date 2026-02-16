@@ -6,4 +6,6 @@
     "git.autofetch": true,
     "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
     "editor.fontLigatures": true,
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.colorTheme": "Experimental Dark",
 }
